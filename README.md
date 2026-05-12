@@ -133,4 +133,4 @@ ros2 launch amr_robot nav2.launch.py map:=/path/to/your/map.yaml
 
 * [ ] **AI Integration:** Implementing YOLOv8-Nano for doctor/patient detection.
 * [ ] **Medical Payload:** Integration of UV-C sterilization or medicine delivery lockbox.
-* [ ] **Voice Interface:** Natural language processing for nurse-to-robot commands.
+
