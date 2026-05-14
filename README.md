@@ -131,6 +131,6 @@ ros2 launch amr_robot nav2.launch.py map:=/path/to/your/map.yaml
 
 ## 🔮 Future Work
 
-* [ ] **AI Integration:** Implementing YOLOv8-Nano for doctor/patient detection.
-* [ ] **Medical Payload:** Integration of UV-C sterilization or medicine delivery lockbox.
+* [ ] **AI Integration:** Implementing HuskeyLens camera for doctor/patient detection.
+* [ ] **Medical Payload:** Integration of UV-C sterilization and medicine delivery lockbox.
 
